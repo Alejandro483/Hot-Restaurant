@@ -17,6 +17,7 @@ Remember that there is limited occupancy. If you didn't get a table don't worry,
 
 You can check you table status by clicking on the link at the bottom of the page named "API Wait List"
 
-Image here
+<img src="assets/Picture3.jpg" width="600" height="500">
+
 
 Enjoy this app.
